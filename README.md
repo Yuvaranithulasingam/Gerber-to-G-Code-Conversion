@@ -2,10 +2,8 @@
 
 ## Aim:
 To convert the Gerber File into G-Code using Copper CAM.
-
 ## Software required:
 Copper CAM
-
 ## Procedure:
 1. Open your Gerber file (File → Open → New circuit)</br>
 2. Open your Drill file (File → Open → Drill)</br>
@@ -20,10 +18,8 @@ Copper CAM
 11. Go to machine/ Contours/calculate Contours</br>
 12. Go to machine/mill and select engraving you will get the g code,similarly for Drill and cut. </br>
 13. Save the G code</br>
-
- ## Contours Output:
-![Screenshot 2024-05-11 172214](https://github.com/Yuvaranithulasingam/Gerber-to-G-Code-Conversion/assets/121418522/d5d59fad-cc62-4b81-b164-40ddd17fe45e)
-
+## Contours Output:
+![image](https://github.com/Yuvaranithulasingam/Gerber-to-G-Code-Conversion/assets/121418522/7e608a09-c8af-431e-ade4-9b4141656966)
 ## G Code:
 ### Engraving G Code:
 ```
@@ -521,6 +517,5 @@ M05
 M02
 %
 ```
-
 ## Result:
 Thus the Gerber File into G-Code using Copper CAM.
