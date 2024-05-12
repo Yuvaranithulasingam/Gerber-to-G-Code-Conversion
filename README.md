@@ -22,11 +22,7 @@ Copper CAM
 13. Save the G code</br>
 
  ## Contours Output:
-
-
-
-
-
+![Screenshot 2024-05-11 172214](https://github.com/Yuvaranithulasingam/Gerber-to-G-Code-Conversion/assets/121418522/d5d59fad-cc62-4b81-b164-40ddd17fe45e)
 
 ## G Code:
 ### Engraving G Code:
